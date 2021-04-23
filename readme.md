@@ -5,8 +5,8 @@ Teste de automatizado a api ViaCep.
 Automatizar testes com a api ViaCep com a entrada de dados feita por um txt.
 
 ## Tecnologias Aplicadas
-Java 8
-JUnit 4
+- Java 8
+- JUnit 4
 
 ## Iniciando
 git clone https://github.com/HipolitoDeveloper/itau-java-automated-testing
