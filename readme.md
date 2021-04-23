@@ -17,5 +17,9 @@ git clone https://github.com/HipolitoDeveloper/itau-java-automated-testing
 * Rodando os testes
 ``mvnw test``
 
+## Dar novas entradas
+
+Caso você queira testar outros CEP's, basta adicioná-los no arquivo "entrada.txt" respeitando o formato json.
+
 # Autor
 Gabriel Hipólito
