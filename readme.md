@@ -9,7 +9,7 @@ Java 8
 JUnit 4
 
 ## Iniciando
-git clone https://github.com/HipolitoDeveloper/java-automated-testing/
+git clone https://github.com/HipolitoDeveloper/itau-java-automated-testing
 
 * Instalar as dependências
 ``mvn install``
