@@ -1,19 +1,19 @@
-#Itau Automated Testing
+*Itau Automated Testing
 Teste de automatizado a api ViaCep.
 
-#Requisitos do projeto
+*Requisitos do projeto
 Automatizar testes com a api ViaCep com a entrada de dados feita por um txt.
 
-#Tecnologias Aplicadas
+*Tecnologias Aplicadas
 Java 8
 JUnit 4
 
-#Iniciando
+*Iniciando
 
 git clone https://github.com/HipolitoDeveloper/java-automated-testing/
 
-#Rodando os testes
+*Rodando os testes
 ./mvnw test
 
-#Autor
+*Autor
 Gabriel Hipólito
