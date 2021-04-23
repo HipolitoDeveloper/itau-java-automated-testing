@@ -15,7 +15,7 @@ git clone https://github.com/HipolitoDeveloper/itau-java-automated-testing
 ``mvn install``
 
 * Rodando os testes
-``mvnw test``
+``mvn test``
 
 ## Dar novas entradas
 
