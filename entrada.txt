@@ -1,0 +1,15 @@
+[
+  {
+    "cep": "06010170",
+    "retorno": "json"
+  },
+  {
+    "cep": "06010170",
+    "retorno": "json"
+  },
+  {
+    "cep": "06010170",
+    "retorno": "json"
+  }
+]
+
