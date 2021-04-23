@@ -14,8 +14,8 @@ git clone https://github.com/HipolitoDeveloper/itau-java-automated-testing
 * Instalar as dependências
 ``mvn install``
 
-## Rodando os testes
-./mvnw test
+* Rodando os testes
+``mvnw test``
 
 # Autor
 Gabriel Hipólito
